@@ -1,2 +1,2 @@
 # Mock
-A easy-mock server for the project
+The easy-mock server for Amoy-interest project.
